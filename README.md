@@ -42,4 +42,4 @@ You define each SDLC agent **once**, as YAML in this repo. A build step compiles
 
 Read in this order: `00` → `01` → `02` → `07`. Those four define the system. Everything else is a component deep-dive you can defer.
 
-If you want to start coding today, jump to [Roadmap → Phase 0](docs/12-roadmap.md#phase-0--walking-skeleton-week-12).
+If you want to start coding today, go to **[milestones/](milestones/)** — the roadmap decomposed into executable work. [`MILESTONES.md`](milestones/MILESTONES.md) is the master plan; [`M0 — Walking skeleton`](milestones/M0-walking-skeleton.md) is where the first commit goes.
